@@ -1,4 +1,4 @@
-public class Main {
+public class first {
   public static void main(String[] args) {
     int x = 5;
     int y = 3;
